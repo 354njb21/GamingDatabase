@@ -1,4 +1,4 @@
-﻿namespace Gaming
+﻿namespace GamingDatabase
 {
     partial class Form1
     {
